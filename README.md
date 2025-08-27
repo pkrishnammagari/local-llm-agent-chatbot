@@ -12,7 +12,7 @@ A sophisticated chatbot application that runs a local Large Language Model (Llam
 
 **(Highly Recommended!) Record a short screen capture or GIF of your app answering both a general question and a current events question. This is the best way to showcase your work.**
 
-![App Demo Screenshot](Screenshot 2025-08-27 at 12.59.58.png) ---
+![App Demo Screenshot](Screenshot 2025-08-27 at 12.59.58.png)
 
 ### ✨ Features
 
