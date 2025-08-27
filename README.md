@@ -10,8 +10,6 @@ A sophisticated chatbot application that runs a local Large Language Model (Llam
 
 ### 📸 Demo
 
-**(Highly Recommended!) Record a short screen capture or GIF of your app answering both a general question and a current events question. This is the best way to showcase your work.**
-
 ![App Demo Screenshot](https://github.com/pkrishnammagari/local-llm-agent-chatbot/blob/main/Screenshot%202025-08-27%20at%2012.59.58.png)
 
 ### ✨ Features
